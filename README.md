@@ -9,3 +9,5 @@
 ![Gambar2](Screenshot/Screenshot%20(1).png)
 ## Latihan 2
 ![Gambar3](Screenshot/Screenshot%20(2).png)
+# Latihan 3
+![Gambar4](Screenshot/3.png)
